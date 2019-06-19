@@ -1,6 +1,8 @@
 # ESP32-Smart-Gardening
 A clever way to water plants with (almost) no pain!
 
+It handles plant watering and lighting, and exposes a Bootstrap Web Server with WebSocket protocol and JSON message passing.
+
 This is the ESP32 sketch and html page I realized for this video:
 https://youtu.be/k7Zq6NQV0wI
 
